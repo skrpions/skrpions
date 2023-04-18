@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Nestor Martínez</a> 👋</h1>
 </div>
-<img src="https://avatars1.githubusercontent.com/u/49753463?s=200&v=4">
+<img src="https://github.com/skrpions/presupuesto-web/blob/master/src/assets/screen.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
