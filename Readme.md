@@ -13,18 +13,18 @@
 - 💻 Frontend Developer Angular
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [Misak-Colombia](https://www.misak-colombia.org/)
+- 📗 Autor de la ponencia: [APLICACIÓN DE MÉTODOS DE SELECCIÓN DE ATRIBUTOS PARA DETERMINAR FACTORES RELEVANTES EN LA CLASIFICACIÓN DE ACTIVIDADES FÍSICAS COTIDIANAS](https://acofipapers.org/index.php/eiei/article/view/252)
+
 <br>
 
-## Sitios Web
+## Sitios Web | Wordpress
 
 - 🧑🏻‍💻 [Misak-Colombia](https://www.misak-colombia.org/)
 - 🧑🏻‍💻 [Sercor](https://sercoresahi.com/)
-- 🧑🏻‍💻 [Estudio-Bf](https://www.estudio-bf.com/))
+- 🧑🏻‍💻 [Estudio-Bf](https://www.estudio-bf.com/)
 <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
