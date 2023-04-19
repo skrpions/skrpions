@@ -13,7 +13,7 @@
 - 💻 Frontend Developer Angular
 - 📱 Developer: [Biclapp](https://drive.google.com/file/d/1KJP7wum3SOGosmO90oLkeL9O3ZSkRhM9/view?usp=sharing)
 - 📱 Developer: [Apptende](https://drive.google.com/file/d/11zH7WAginXvb-1A6RBJT-5rRZhwG6aFk/view?usp=sharing)
-- 📗 Autor: [APLICACIÓN DE MÉTODOS DE SELECCIÓN DE ATRIBUTOS PARA DETERMINAR FACTORES RELEVANTES EN LA CLASIFICACIÓN DE ACTIVIDADES FÍSICAS COTIDIANAS](https://acofipapers.org/index.php/eiei/article/view/252)
+- 📗 Autor: [Aplicación de métodos de selección de atributos para determinar factores relevantes en la clasificación de actividades físicas cotidianas](https://acofipapers.org/index.php/eiei/article/view/252)
 
 <br>
 
