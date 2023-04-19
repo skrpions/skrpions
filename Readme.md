@@ -8,13 +8,20 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+## Sobre mí
 
 - 💻 Frontend Developer Angular
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [Misak-Colombia](https://www.misak-colombia.org/)
+<br>
+
+## Sitios Web
+
+- 🧑🏻‍💻 [Misak-Colombia](https://www.misak-colombia.org/)
+- 🧑🏻‍💻 [Sercor](https://sercoresahi.com/)
+- 🧑🏻‍💻 [Estudio-Bf](https://www.estudio-bf.com/))
 <br>
 
 ## Proyectos *bombitas*
