@@ -13,7 +13,7 @@
 - 💻 Frontend Developer Angular
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+24k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor de la ponencia: [APLICACIÓN DE MÉTODOS DE SELECCIÓN DE ATRIBUTOS PARA DETERMINAR FACTORES RELEVANTES EN LA CLASIFICACIÓN DE ACTIVIDADES FÍSICAS COTIDIANAS](https://acofipapers.org/index.php/eiei/article/view/252)
+- 📗 Autor de: [APLICACIÓN DE MÉTODOS DE SELECCIÓN DE ATRIBUTOS PARA DETERMINAR FACTORES RELEVANTES EN LA CLASIFICACIÓN DE ACTIVIDADES FÍSICAS COTIDIANAS](https://acofipapers.org/index.php/eiei/article/view/252)
 
 <br>
 
