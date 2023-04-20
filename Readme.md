@@ -15,19 +15,6 @@
 
 <br>
 
-## Websites | Wordpress
-
-- 🧑🏻‍💻 [Misak-Colombia](https://www.misak-colombia.org/)
-- 🧑🏻‍💻 [Sercor](https://sercoresahi.com/)
-- 🧑🏻‍💻 [Estudio-Bf](https://www.estudio-bf.com/)
-<br>
-
-## Apps | Mobile
-
-- 📱 [Biclapp](https://drive.google.com/file/d/1KJP7wum3SOGosmO90oLkeL9O3ZSkRhM9/view?usp=sharing)
-- 📱 [Apptende](https://drive.google.com/file/d/11zH7WAginXvb-1A6RBJT-5rRZhwG6aFk/view?usp=sharing)
-<br>
-
 ## Projects
 <table>
 <tr>
@@ -71,6 +58,19 @@
 
                                                                         
 </div>
+<br>
+
+## Websites | Wordpress
+
+- 🧑🏻‍💻 [Misak-Colombia](https://www.misak-colombia.org/)
+- 🧑🏻‍💻 [Sercor](https://sercoresahi.com/)
+- 🧑🏻‍💻 [Estudio-Bf](https://www.estudio-bf.com/)
+<br>
+
+## Apps | Mobile
+
+- 📱 [Biclapp](https://drive.google.com/file/d/1KJP7wum3SOGosmO90oLkeL9O3ZSkRhM9/view?usp=sharing)
+- 📱 [Apptende](https://drive.google.com/file/d/11zH7WAginXvb-1A6RBJT-5rRZhwG6aFk/view?usp=sharing)
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
