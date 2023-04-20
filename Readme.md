@@ -51,7 +51,7 @@
 </a>
 </p>
 </p>
- <strong>Skills Inventory</strong> es todo un sistema de información web desarrollado para realizar el seguimiento constante al ganado, registrar eventos diarios de manera individual o grupal, agregar usuarios, proveedores, clientes, parametrizar eventos y ver graficas estadísticas de los animales activos, entre muchas otras opciones más...</p>
+ <strong>Skills Inventory</strong> es una aplicación web que ayuda a mantener un registro actualizado del personal y sus habilidades. Además de gestionar las hojas de vida, está sistema de información también ofrece la posibilidad de crear perfiles de empleados, definir competencias, hacer seguimiento a la formación y certificaciones, e inclusive, generar informes personalizados.</p>
 </div>
 </table>
 
