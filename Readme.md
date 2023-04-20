@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Avigan Cloud</h3>
 <div align="center">
-<a href="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan.png" target="_blank"><img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan.png" width="400" alt="Avigan Cloud"></a>
+<img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan.png" width="400" alt="Avigan Cloud">
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -50,9 +50,9 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Skills Inventory</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
