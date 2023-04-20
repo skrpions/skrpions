@@ -50,7 +50,6 @@
 </td>
 
 <td width="50%">
-<br>
 <h3 align="center">SKILLS INVENTORY</h3>
 <div align="center">
  <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
