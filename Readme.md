@@ -39,7 +39,9 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://badgen.net/badge/icon/CODE?icon=github&label">
 </a>
+ 
 <a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
+ <img src="[https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40](https://img.shields.io/badge/CODE-GitHub?style=for-the-badge&logo=github&logoColor=white&color=005a72&labelColor=111213)">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
   
