@@ -3,16 +3,6 @@
 </div>
 <img src="https://github.com/skrpions/skrpions/blob/main/Banner-Fronted-Angular.png">
 
-<a href="https://www.youtube.com/@nestormartinez6196" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CANAL-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=111213&labelColor=red">
-</a>
-
-
-<a href="https://www.youtube.com/@nestormartinez6196" onclick="window.open(this.href,'_blank');return false;">
-  <img src="https://img.shields.io/badge/CANAL-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=111213&labelColor=red">
-</a>
-
-
 <a href="https://www.youtube.com/@nestormartinez6196" target="_blank">
   <img src="https://img.shields.io/badge/CANAL-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=111213&labelColor=red">
 </a>
@@ -38,7 +28,7 @@
 <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan%20Web.png?raw=true" width="400" alt="Avigan Cloud">
 <br>
  <p>
- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+ <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/CODE-GitHub?style=for-the-badge&logo=github&logoColor=white&color=005a72&labelColor=111213">
  </a>
  <a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
@@ -56,11 +46,11 @@
  <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="#" target="_blank">
  <img src="https://img.shields.io/badge/CODE-GitHub?style=for-the-badge&logo=github&logoColor=white&color=005a72&labelColor=111213">
 </a>
 
-<a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
+<a href="#" target="_blank">
  <img src="https://img.shields.io/badge/YOUTUBE-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=red&labelColor=111213">
 </a>
 </p>
