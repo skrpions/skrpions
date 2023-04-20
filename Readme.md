@@ -8,14 +8,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mí
+## About me
 
 - 💻 Frontend Developer Angular
 - 📗 Autor: [Aplicación de métodos de selección de atributos para determinar factores relevantes en la clasificación de actividades físicas cotidianas](https://acofipapers.org/index.php/eiei/article/view/252)
 
 <br>
 
-## Sitios Web | Wordpress
+## Websites | Wordpress
 
 - 🧑🏻‍💻 [Misak-Colombia](https://www.misak-colombia.org/)
 - 🧑🏻‍💻 [Sercor](https://sercoresahi.com/)
@@ -28,7 +28,7 @@
 - 📱 [Apptende](https://drive.google.com/file/d/11zH7WAginXvb-1A6RBJT-5rRZhwG6aFk/view?usp=sharing)
 <br>
 
-## Proyectos
+## Projects
 <table>
 <tr>
 <td width="50%">
