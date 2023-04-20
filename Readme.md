@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/CANAL-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=111213&labelColor=red">
 </a>
 
+<a href="https://api.whatsapp.com/send?phone=3105338818" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white&color=111213&labelColor=25D366">
+</a>
 
 
 ## About Me
