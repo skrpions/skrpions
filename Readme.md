@@ -53,14 +53,14 @@
                <br>
 <h3 align="center">Skills Inventory</h3>
 <div align="center">                                       
-<img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
+ <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+ <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+ <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
