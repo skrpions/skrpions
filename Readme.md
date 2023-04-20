@@ -51,7 +51,7 @@
 </a>
 </p>
 </p>
- <strong>Skills Inventory</strong> es una aplicación web que ayuda a mantener un registro actualizado del personal y sus habilidades. Además de gestionar las hojas de vida, este sistema de información también ofrece la posibilidad de crear perfiles de empleados, definir competencias, hacer seguimiento a la formación y certificaciones, e incluso generar informes personalizados.</p>
+ <strong>Skills Inventory</strong> es una aplicación web que ayuda a mantener un registro actualizado del personal y sus habilidades. Además de gestionar las hojas de vida, también ofrece la posibilidad de crear perfiles de empleados, definir competencias, hacer seguimiento a la formación y certificaciones, e incluso generar informes personalizados.</p>
 </div>
 </table>
 
