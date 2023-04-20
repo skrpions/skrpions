@@ -37,7 +37,7 @@
 <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan%20Web.png?raw=true" width="400" alt="Avigan Cloud">
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://badgen.net/badge/icon/CODE?icon=github&label">
 </a>
 <a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
