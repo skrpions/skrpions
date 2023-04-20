@@ -30,42 +30,57 @@
 
 ## Projects
 <table>
-<tr>
-<td width="50%">
-<h3 align="center">AVIGAN CLOUD</h3>
-<div align="center">
-<img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan%20Web.png?raw=true" width="400" alt="Avigan Cloud">
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
- <img src="https://img.shields.io/badge/CODE-GitHub?style=for-the-badge&logo=github&logoColor=white&color=005a72&labelColor=111213">
-</a>
- 
-<a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
- <img src="https://img.shields.io/badge/YOUTUBE-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=red&labelColor=111213">
-</a>
-</p>
-<p><strong>Avigan Cloud</strong> es todo un sistema de información web desarrollado para realizar el seguimiento constante al ganado, registrar eventos diarios de manera individual o grupal, agregar usuarios, proveedores, clientes, parametrizar eventos y ver graficas estadísticas de los animales activos, entre muchas otras opciones más..</p>
-</div>
-                                                                                      
-</td>
+    <tr>
+        <td width="50%">
+            <h3 align="center">AVIGAN CLOUD</h3>
+            <div align="center">
+                <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan%20Web.png?raw=true" width="400"
+                    alt="Avigan Cloud">
+                <br>
+                <p>
+                    <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/CODE-GitHub?style=for-the-badge&logo=github&logoColor=white&color=005a72&labelColor=111213">
+                    </a>
 
-<td width="50%">
-               <br>
-<h3 align="center">SKILLS INVENTORY</h3>
-<div align="center">                                       
- <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
- <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="" target="_blank">
- <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p><strong>Skills Inventory</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
+                    <a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/YOUTUBE-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=red&labelColor=111213">
+                    </a>
+                </p>
+                <p>
+                  <strong>Avigan Cloud</strong> es todo un sistema de información web desarrollado para realizar el
+                    seguimiento constante al ganado, registrar eventos diarios de manera individual o grupal, agregar
+                    usuarios, proveedores, clientes, parametrizar eventos y ver graficas estadísticas de los animales
+                    activos, entre muchas otras opciones más...
+                </p>
+            </div>
+
+        </td>
+
+        <td width="50%">
+            <br>
+            <h3 align="center">SKILLS INVENTORY</h3>
+            <div align="center">
+                <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true"
+                    width="400" alt="Skills Inventory">
+                <br>
+                <p>
+                    <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+                        <img
+                            src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+                    </a>
+                    <a href="" target="_blank">
+                        <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+                    </a>
+                </p>
+                <p>
+                  <strong>Skills Inventory</strong> para poder trabajar como desarrollador/a Android. En este curso,
+                  divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de
+                  dependencias, clean architecture, testing y mucho más.
+                </p>
+            </div>
+</table>                                                                          
 </div>
 <br>
 
