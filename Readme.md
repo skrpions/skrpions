@@ -37,12 +37,11 @@
 <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan%20Web.png?raw=true" width="400" alt="Avigan Cloud">
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://badgen.net/badge/icon/CODE?icon=github&label">
  <img src="https://img.shields.io/badge/CODE-GitHub?style=for-the-badge&logo=github&logoColor=white&color=005a72&labelColor=111213">
 </a>
  
 <a href="https://www.youtube.com/watch?v=DT6XU5T2DGA" target="_blank">
- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
+ <img src="https://img.shields.io/badge/YOUTUBE-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=red&labelColor=111213">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
