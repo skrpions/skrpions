@@ -34,7 +34,7 @@
 <td width="50%">
 <h3 align="center">Avigan Cloud</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Avigan Cloud"></a>
+<a href="" target="_blank"><img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan.png" width="400" alt="Avigan Cloud"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
