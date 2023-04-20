@@ -15,6 +15,7 @@
 ## About Me
 
 - 💻 Frontend Developer Angular
+- 🧑🏻‍💻 +3 years of work experience.
 - 📗 Autor: [Aplicación de métodos de selección de atributos para determinar factores relevantes en la clasificación de actividades físicas cotidianas](https://acofipapers.org/index.php/eiei/article/view/252)
 
 <br>
@@ -66,9 +67,9 @@
 
 ## Websites | Wordpress
 
-- 🧑🏻‍💻 [Misak-Colombia](https://www.misak-colombia.org/)
-- 🧑🏻‍💻 [Sercor](https://sercoresahi.com/)
-- 🧑🏻‍💻 [Estudio-Bf](https://www.estudio-bf.com/)
+- 🖥 [Misak-Colombia](https://www.misak-colombia.org/)
+- 🖥 [Sercor](https://sercoresahi.com/)
+- 🖥 [Estudio-Bf](https://www.estudio-bf.com/)
 <br>
 
 ## Apps | Mobile
