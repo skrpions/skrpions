@@ -44,7 +44,7 @@
  <img src="https://img.shields.io/badge/YOUTUBE-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=red&labelColor=111213">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p><strong>AVIGAN CLOUD</strong> es todo un sistema de información web y móvil desarrollado exclusivamente para la gestión de procesos de producción y comercialización ganadera en la Institución Educativa Fundación "Jose Maria Obando", cuyo propósito radica en facilitarle a los Administrativos, Docentes y Estudiantes encargados del área de producción pecuaria el procesamiento de la informacion registrada a partir de eventos diarios. Por medio de AVIGAN CLOUD se podrá realizar el seguimiento constante al ganado, registrar eventos diarios de manera individual o grupal, agregar usuarios, proveedores, clientes, parametrizar eventos y ver graficas estadísticas de los animales activos, entre muchas otras opciones más..</p>
 </div>
                                                                                       
 </td>
