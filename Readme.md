@@ -32,7 +32,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Avigan Cloud</h3>
+<h3 align="center">AVIGAN CLOUD</h3>
 <div align="center">
 <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Avigan%20Web.png?raw=true" width="400" alt="Avigan Cloud">
 <p>
@@ -44,14 +44,14 @@
  <img src="https://img.shields.io/badge/YOUTUBE-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=red&labelColor=111213">
 </a>
 </p>
-<p><strong>AVIGAN CLOUD</strong> es todo un sistema de información web desarrollado para realizar el seguimiento constante al ganado, registrar eventos diarios de manera individual o grupal, agregar usuarios, proveedores, clientes, parametrizar eventos y ver graficas estadísticas de los animales activos, entre muchas otras opciones más..</p>
+<p><strong>Avigan Cloud</strong> es todo un sistema de información web desarrollado para realizar el seguimiento constante al ganado, registrar eventos diarios de manera individual o grupal, agregar usuarios, proveedores, clientes, parametrizar eventos y ver graficas estadísticas de los animales activos, entre muchas otras opciones más..</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Skills Inventory</h3>
+<h3 align="center">SKILLS INVENTORY</h3>
 <div align="center">                                       
  <img src="https://github.com/skrpions/skrpions/blob/main/Fondo%20Skills%20Inventory.png?raw=true" width="400" alt="Skills Inventory">
 <br>
@@ -63,7 +63,7 @@
  <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p><strong>Skills Inventory</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
