@@ -16,7 +16,7 @@
 
 - 💻 Frontend Developer Angular.
 - 🧑🏻‍💻 +3 years of work experience.
-- 📗 Autor scientific article : [Aplicación de métodos de selección de atributos para determinar factores relevantes en la clasificación de actividades físicas cotidianas](https://acofipapers.org/index.php/eiei/article/view/252)
+- 📗 Author of scientific article : [Aplicación de métodos de selección de atributos para determinar factores relevantes en la clasificación de actividades físicas cotidianas](https://acofipapers.org/index.php/eiei/article/view/252)
 
 <br>
 
