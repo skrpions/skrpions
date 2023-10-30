@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="">Nestor Martínez</a> 👋</h1>
 </div>
-<img src="https://github.com/skrpions/skrpions/blob/main/Banner-Fronted-Angular.png">
+<img src="https://github.com/skrpions/skrpions/blob/main/Github%20Banner.png">
 
 <a href="https://www.youtube.com/@nestormartinez6196" target="_blank">
   <img src="https://img.shields.io/badge/CANAL-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=111213&labelColor=red">
