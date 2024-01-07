@@ -17,7 +17,7 @@
 - 💻 Frontend Developer Angular.
 - 🧑🏻‍💻 +4 years of work experience.
 - 📗 Author of scientific article : [Aplicación de métodos de selección de atributos para determinar factores relevantes en la clasificación de actividades físicas cotidianas](https://acofipapers.org/index.php/eiei/article/view/252)
-- 🌐 Website : [nestor-dev]([https://acofipapers.org/index.php/eiei/article/view/252](https://skrpions.github.io/nestor-dev/))
+- 🌐 Website : [nestor-dev](https://acofipapers.org/index.php/eiei/article/view/252](https://skrpions.github.io/nestor-dev/)
 
 <br>
 
