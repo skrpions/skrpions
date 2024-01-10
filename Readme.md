@@ -16,7 +16,7 @@
 
 - 💻 Frontend Developer Angular.
 - 🧑🏻‍💻 +5 years of work experience.
-- 📗 Author of scientific article : [Ver artículo...](https://acofipapers.org/index.php/eiei/article/view/252)
+- 📗 Author of scientific article : [See ...](https://acofipapers.org/index.php/eiei/article/view/252)
 - 🌐 Website : https://skrpions.github.io/nestor-dev
 
 <br>
