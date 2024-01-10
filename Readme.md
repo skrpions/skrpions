@@ -71,7 +71,7 @@
 - 🖥 [Misak Universidad](https://www.misakuniversidad.org/)
 - 🖥 [Misak Colombia](https://www.misak-colombia.org/)
 - 🖥 [Sercor](https://sercoresahi.com/)
-- 🖥 [Estudio-Bf](https://www.estudio-bf.com/)
+- 🖥 [Estudio Bf](https://www.estudio-bf.com/)
 <br>
 
 ## Apps | Mobile
