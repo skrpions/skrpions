@@ -3,12 +3,18 @@
 </div>
 <img src="https://raw.githubusercontent.com/skrpions/skrpions/main/LinkedIn%20Banner.png">
 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nestormartinez6196)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=3105338818)
+
 <a href="https://www.youtube.com/@nestormartinez6196" target="_blank">
   <img src="https://img.shields.io/badge/CANAL-YouTube?style=for-the-badge&logo=youtube&logoColor=white&color=111213&labelColor=red">
 </a>
 
+
+
 <a href="https://api.whatsapp.com/send?phone=3105338818" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-WhatsApp?style=for-the-badge&logo=whatsapp&logoColor=white&color=111213&labelColor=25D366">
+  <img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white&color=111213&labelColor=25D366">
 </a>
 
 
