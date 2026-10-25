@@ -18,14 +18,14 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-hechos-dark.svg">
-  <img src="assets/title-hechos-light.svg" width="100%" alt="02 Trayectoria — Hechos, no adjetivos.">
+  <img src="assets/title-hechos-light.svg" width="100%" alt="02 Trayectoria — Mi trayectoria en números.">
 </picture>
 <a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="assets/hechos.svg" width="100%" alt="Más de 7 años de experiencia frontend; autor de una publicación en el Encuentro Internacional de Educación en Ingeniería 2019; 4 certificaciones, 2 registros de software y grado con honores."><br>
 <img src="assets/experiencia.svg" width="100%" alt="Experiencia: VASS Colombia (Developer Sr Angular y Líder Técnico Frontend, desde diciembre de 2023), DreamCode S.A.S (Ingeniero de Desarrollo, 2021 a 2023), Corporación Universitaria Autónoma del Cauca (desarrollador, monitor y semillero, 2016 a 2019) e I. E. INEM de Popayán (desarrollador, 2015)."></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-trabajo-dark.svg">
-  <img src="assets/title-trabajo-light.svg" width="100%" alt="03 Trabajo seleccionado — Productos, no tareas.">
+  <img src="assets/title-trabajo-light.svg" width="100%" alt="03 Trabajo seleccionado — Proyectos en los que he trabajado.">
 </picture>
 
 <img src="assets/project-banca.svg" width="100%" alt="Banca Digital: soluciones Angular para onboarding, banca digital y autogestión, con arquitectura modular, APIs REST, KYC, autenticación segura y estándares de calidad con testing, code review y análisis estático.">
