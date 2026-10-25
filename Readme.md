@@ -1,5 +1,5 @@
 <a href="https://skrpions.github.io/nestor-dev">
-<img src="assets/hero.svg" width="100%" alt="Nestor Martínez — Senior Frontend Angular Developer y Full Stack. Interfaces sólidas, rápidas y reutilizables.">
+<img src="assets/hero.svg" width="100%" alt="Nestor Martínez — Senior Frontend Engineer y Líder Técnico Angular. Frontend sólido y rápido para banca digital.">
 </a>
 
 <p align="center">
@@ -14,18 +14,21 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-sobre-mi-dark.svg">
   <img src="assets/title-sobre-mi-light.svg" width="100%" alt="01 Sobre mí — Hola, soy Nestor.">
 </picture>
-<img src="assets/about-intro.svg" width="100%" alt="Ingeniero de Sistemas con más de 5 años de experiencia como desarrollador Full Stack, con especialidad en frontend con Angular. Creo aplicaciones web de alta calidad con Angular y Spring Boot, diseño componentes reutilizables y optimizo la velocidad de las aplicaciones. Actualmente Senior Frontend Angular Developer en VASS Company, Colombia.">
+<img src="assets/about-intro.svg" width="100%" alt="Ingeniero de Software Senior con más de 7 años en desarrollo frontend para banca digital y soluciones empresariales. Especializado en arquitecturas modernas, optimización de rendimiento y testing en entornos corporativos; experiencia en integración de APIs y uso de IA asistida para potenciar el desarrollo, la calidad y la productividad en equipos ágiles. Developer Sr Angular y Líder Técnico Frontend en VASS Colombia.">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-hechos-dark.svg">
   <img src="assets/title-hechos-light.svg" width="100%" alt="02 Trayectoria — Hechos, no adjetivos.">
 </picture>
-<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="assets/hechos.svg" width="100%" alt="Más de 5 años de experiencia Full Stack; autor de un artículo científico en ACOFI Papers; 2 proyectos estrella, 4 sitios WordPress y 2 apps móviles."></a>
+<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="assets/hechos.svg" width="100%" alt="Más de 7 años de experiencia frontend; autor de una publicación en el Encuentro Internacional de Educación en Ingeniería 2019; 4 certificaciones, 2 registros de software y grado con honores."><br>
+<img src="assets/experiencia.svg" width="100%" alt="Experiencia: VASS Colombia (Developer Sr Angular y Líder Técnico Frontend, desde diciembre de 2023), DreamCode S.A.S (Ingeniero de Desarrollo, 2021 a 2023), Corporación Universitaria Autónoma del Cauca (desarrollador, monitor y semillero, 2016 a 2019) e I. E. INEM de Popayán (desarrollador, 2015)."></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-trabajo-dark.svg">
   <img src="assets/title-trabajo-light.svg" width="100%" alt="03 Trabajo seleccionado — Productos, no tareas.">
 </picture>
+
+<img src="assets/project-banca.svg" width="100%" alt="Banca Digital: soluciones Angular para onboarding, banca digital y autogestión, con arquitectura modular, APIs REST, KYC, autenticación segura y estándares de calidad con testing, code review y análisis estático.">
 
 <img src="assets/project-avigan.svg" width="100%" alt="Avigan Cloud: sistema de información web para el seguimiento constante del ganado, registro de eventos diarios individuales o grupales, usuarios, proveedores, clientes, parametrización de eventos y gráficas estadísticas de animales activos.">
 <p align="center">
@@ -57,13 +60,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-herramientas-dark.svg">
   <img src="assets/title-herramientas-light.svg" width="100%" alt="04 Herramientas — Las herramientas que uso.">
 </picture>
-<img src="assets/herramientas.svg" width="100%" alt="Herramientas. Frontend: Angular, TypeScript, HTML, CSS, SCSS. Backend: Spring Boot, Java, REST APIs, JavaScript. Calidad y rendimiento: Jest, componentes reutilizables. Cloud y DevOps: AWS S3 y CloudFront, CI/CD, Docker. Control de versiones: Git y GitHub. Web: WordPress y apps móviles.">
+<img src="assets/herramientas.svg" width="100%" alt="Herramientas. Frontend: Angular, TypeScript, React, HTML, CSS. Estado y UI: RxJS, NgRx, PrimeNG, Angular Material, Bootstrap. Arquitectura: microfrontend, hexagonal, modular, clean code. Testing: Jest, Jasmine, Karma, SonarQube, Sentry. Backend: Spring Boot, Node.js, REST, MySQL, PostgreSQL. Herramientas: Git, GitLab, GitHub, Azure, Figma, Docker, AWS básico.">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-flujo-dark.svg">
   <img src="assets/title-flujo-light.svg" width="100%" alt="05 Flujo de trabajo — Del código a producción.">
 </picture>
-<img src="assets/flujo.svg" width="100%" alt="Flujo: código, pruebas con Jest, merge request, pipeline CI/CD, despliegue en AWS y producción. Principios: reutilizable, rápido, entregable, verificable.">
+<img src="assets/flujo.svg" width="100%" alt="Flujo: código, pruebas con Jest y Karma, code review, pipeline con análisis estático, despliegue en AWS y producción. Principios: reutilizable, rápido, seguro, verificable.">
 
 <p align="center">
 <a href="https://github.com/skrpions">
@@ -76,7 +79,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-formacion-dark.svg">
   <img src="assets/title-formacion-light.svg" width="100%" alt="06 Formación — Formación y comunidad.">
 </picture>
-<a href="https://skrpions.github.io/nestor-dev"><img src="assets/formacion.svg" width="100%" alt="Ingeniero de Sistemas; autor de un artículo científico en ACOFI Papers; canal de YouTube con demos de proyectos; sitio personal skrpions.github.io/nestor-dev."></a>
+<a href="https://skrpions.github.io/nestor-dev"><img src="assets/formacion.svg" width="100%" alt="Formación y credenciales: Ingeniería de Sistemas Informáticos con honores, especialización y tecnología del SENA, diplomado en software para banca Bantotal, Angular 14 Pro, cursos SENA de HTML y calidad de software; español nativo e inglés A2."></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-contacto-dark.svg">
