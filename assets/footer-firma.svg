@@ -15,7 +15,7 @@ text{text-rendering:geometricPrecision;font-kerning:normal}
 .grow{transform-box:fill-box;transform-origin:0 50%;animation:grow 1.6s cubic-bezier(.65,0,.35,1) both}
 .draw{stroke-dasharray:1;animation:draw 2.2s cubic-bezier(.65,0,.35,1) both}
 .c{animation:ch .01s both}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}.smil{display:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
 .sigline{opacity:0;stroke-dasharray:1100;animation:sigw 4.2s ease both}@keyframes sigw{0%{stroke-dashoffset:1100;opacity:1}62%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:0}}</style>
 <defs>
 <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2d40"/><stop offset=".55" stop-color="#071a25"/><stop offset="1" stop-color="#050f16"/></linearGradient>
