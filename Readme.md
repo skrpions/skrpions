@@ -4,6 +4,7 @@
 
 <p align="center">
 <a href="https://skrpions.github.io/nestor-dev"><img src="https://img.shields.io/badge/Sitio_web-skrpions.github.io-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=githubpages" alt="Sitio web personal"></a>
+<a href="https://www.linkedin.com/in/nestor-mart%C3%ADnez-751232209/"><img src="https://img.shields.io/badge/LinkedIn-Nestor_Mart%C3%ADnez-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2bPHBhdGggZmlsbD0iI2VhZjZmYiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaIi8%2bPC9zdmc%2b" alt="Perfil de LinkedIn"></a>
 <a href="https://www.youtube.com/@nestormartinez6196"><img src="https://img.shields.io/badge/YouTube-Canal-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=youtube" alt="Canal de YouTube"></a>
 <a href="https://api.whatsapp.com/send?phone=573105338818"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=whatsapp" alt="WhatsApp"></a>
 <a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="https://img.shields.io/badge/Art%C3%ADculo-ACOFI_Papers-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=googlescholar" alt="Artículo científico"></a>
@@ -83,6 +84,7 @@
 </picture>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/nestor-mart%C3%ADnez-751232209/"><img src="https://img.shields.io/badge/LinkedIn-Nestor_Mart%C3%ADnez-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2bPHBhdGggZmlsbD0iI2VhZjZmYiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaIi8%2bPC9zdmc%2b" alt="Perfil de LinkedIn"></a>
 <a href="https://api.whatsapp.com/send?phone=573105338818"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=whatsapp" alt="WhatsApp"></a>
 <a href="https://www.youtube.com/@nestormartinez6196"><img src="https://img.shields.io/badge/YouTube-Canal-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=youtube" alt="Canal de YouTube"></a>
 <a href="https://skrpions.github.io/nestor-dev"><img src="https://img.shields.io/badge/Sitio_web-skrpions.github.io-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=githubpages" alt="Sitio web personal"></a>
