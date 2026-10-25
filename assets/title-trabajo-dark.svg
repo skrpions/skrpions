@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 118" width="1200" height="118" role="img" aria-label="03 Trabajo seleccionado — Productos, no tareas.">
+<title>03 Trabajo seleccionado — Productos, no tareas.</title>
+
+<defs>
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2d40"/><stop offset=".55" stop-color="#071a25"/><stop offset="1" stop-color="#050f16"/></linearGradient>
+<radialGradient id="glowTR" cx="1" cy="0" r=".95"><stop offset="0" stop-color="#0772a3" stop-opacity=".45"/><stop offset="1" stop-color="#0772a3" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowBL" cx="0" cy="1" r=".75"><stop offset="0" stop-color="#0772a3" stop-opacity=".24"/><stop offset="1" stop-color="#0772a3" stop-opacity="0"/></radialGradient>
+<linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#4fb0dc" stop-opacity=".95"/><stop offset=".6" stop-color="#0772a3" stop-opacity=".4"/><stop offset="1" stop-color="#0772a3" stop-opacity="0"/></linearGradient>
+<linearGradient id="txtGrad" x1="0" x2="1"><stop offset="0" stop-color="#d9f1fb"/><stop offset="1" stop-color="#4fb0dc"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0a4a6b"/><stop offset="1" stop-color="#4fb0dc"/></linearGradient>
+<linearGradient id="barH" x1="0" x2="1"><stop offset="0" stop-color="#0772a3"/><stop offset="1" stop-color="#a8dcf2"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#4fb0dc" stroke-opacity=".06"/></pattern>
+</defs>
+<text x="22" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3" fill="#4fb0dc">03 <tspan fill="#5d8196">TRABAJO SELECCIONADO</tspan></text><text x="1178" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2.4" fill="#5d8196" text-anchor="end">PROYECTOS · SITIOS · APPS</text><text x="20" y="84" font-family="Georgia, 'Times New Roman', 'DejaVu Serif', serif" font-size="48" fill="#eaf6fb">Productos, <tspan font-style="italic" fill="#a8dcf2">no tareas.</tspan></text><rect x="22" y="102" width="1000" height="1.5" fill="url(#line)"/><circle cy="102.8" r="4" fill="#a8dcf2"><animate attributeName="cx" values="22;1020;22" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>
+</svg>
