@@ -14,21 +14,21 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-sobre-mi-dark.svg">
   <img src="assets/title-sobre-mi-light.svg" width="100%" alt="01 Sobre mí — Hola, soy Nestor.">
 </picture>
-<img src="assets/about-intro.svg" width="100%" alt="Ingeniero de Software Senior con más de 7 años en desarrollo frontend para banca digital y soluciones empresariales. Especializado en arquitecturas modernas, optimización de rendimiento y testing en entornos corporativos; experiencia en integración de APIs y uso de IA asistida para potenciar el desarrollo, la calidad y la productividad en equipos ágiles. Developer Sr Angular y Líder Técnico Frontend en VASS Colombia.">
+<img src="assets/about-intro.svg" width="100%" alt="Ingeniero de Software Senior con más de 7 años en desarrollo frontend para banca digital y soluciones empresariales. Especializado en arquitecturas modernas, optimización de rendimiento y testing en entornos corporativos; experiencia en integración de APIs y uso de IA asistida para potenciar el desarrollo, la calidad y la productividad en equipos ágiles. Senior Angular Developer y Líder Técnico Frontend en VASS Colombia.">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-hechos-dark.svg">
   <img src="assets/title-hechos-light.svg" width="100%" alt="02 Trayectoria — Mi trayectoria en números.">
 </picture>
-<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="assets/hechos.svg" width="100%" alt="Más de 7 años de experiencia frontend; autor de una publicación en el Encuentro Internacional de Educación en Ingeniería 2019; 4 certificaciones, 2 registros de software y grado con honores."><br>
-<img src="assets/experiencia.svg" width="100%" alt="Experiencia: VASS Colombia (Developer Sr Angular y Líder Técnico Frontend, desde diciembre de 2023), DreamCode S.A.S (Ingeniero de Desarrollo, 2021 a 2023), Corporación Universitaria Autónoma del Cauca (desarrollador, monitor y semillero, 2016 a 2019) e I. E. INEM de Popayán (desarrollador, 2015)."></a>
+<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="assets/hechos.svg" width="100%" alt="Más de 7 años de experiencia frontend; autor de una publicación en el Encuentro Internacional de Educación en Ingeniería 2019; 5 certificaciones, 2 registros de software y grado con honores."><br>
+<img src="assets/experiencia.svg" width="100%" alt="Experiencia: VASS Colombia (Senior Angular Developer y Líder Técnico Frontend, desde diciembre de 2023), DreamCode S.A.S (Ingeniero de Desarrollo, 2021 a 2023), Corporación Universitaria Autónoma del Cauca (desarrollador, monitor y semillero, 2016 a 2019) e I. E. INEM de Popayán (desarrollador, 2015)."></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-trabajo-dark.svg">
   <img src="assets/title-trabajo-light.svg" width="100%" alt="03 Trabajo seleccionado — Proyectos en los que he trabajado.">
 </picture>
 
-<img src="assets/project-banca.svg" width="100%" alt="Banca Digital: soluciones Angular para onboarding, banca digital y autogestión, con arquitectura modular, APIs REST, KYC, autenticación segura y estándares de calidad con testing, code review y análisis estático.">
+<img src="assets/project-banca.svg" width="100%" alt="Banca Digital en VASS Colombia (2023 a hoy): onboarding, cuentas de ahorro y banca en línea para varios bancos, con micro-frontends en Nx y Module Federation, Angular con Signals, NgRx, SSO, OTP y pruebas.">
 
 <img src="assets/project-avigan.svg" width="100%" alt="Avigan Cloud: sistema de información web para el seguimiento constante del ganado, registro de eventos diarios individuales o grupales, usuarios, proveedores, clientes, parametrización de eventos y gráficas estadísticas de animales activos.">
 <p align="center">
@@ -60,13 +60,13 @@
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-herramientas-dark.svg">
   <img src="assets/title-herramientas-light.svg" width="100%" alt="04 Herramientas — Las herramientas que uso.">
 </picture>
-<img src="assets/herramientas.svg" width="100%" alt="Herramientas. Frontend: Angular, TypeScript, React, HTML, CSS. Estado y UI: RxJS, NgRx, PrimeNG, Angular Material, Bootstrap. Arquitectura: microfrontend, hexagonal, modular, clean code. Testing: Jest, Jasmine, Karma, SonarQube, Sentry. Backend: Spring Boot, Node.js, REST, MySQL, PostgreSQL. Herramientas: Git, GitLab, GitHub, Azure, Figma, Docker, AWS básico.">
+<img src="assets/herramientas.svg" width="100%" alt="Herramientas. Frontend: Angular, Signals, TypeScript, React, HTML, CSS, SCSS. Estado y UI: RxJS, NgRx, PrimeNG, Angular Material, Bootstrap. Arquitectura: microfrontend con Nx y Module Federation, hexagonal, clean code. Testing y calidad: Jest, Vitest, Jasmine, Karma, SonarQube, Sentry, Grafana. Backend: Spring Boot, Node.js, REST, MySQL, PostgreSQL. Herramientas y cloud: Git, GitLab, GitHub Actions, Azure DevOps, Figma, Docker, AWS básico.">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-flujo-dark.svg">
   <img src="assets/title-flujo-light.svg" width="100%" alt="05 Flujo de trabajo — Del código a producción.">
 </picture>
-<img src="assets/flujo.svg" width="100%" alt="Flujo: código, pruebas con Jest y Karma, code review, pipeline con análisis estático, despliegue en AWS y producción. Principios: reutilizable, rápido, seguro, verificable.">
+<img src="assets/flujo.svg" width="100%" alt="Flujo: código en Angular, pruebas con Jest y Vitest, code review por pull request, pipeline con GitHub Actions y SonarQube, despliegue en AWS (S3 y CloudFront) y producción con entornos dev, QA y prod. Principios: reutilizable, rápido, seguro con SSO, OTP y datos cifrados, y verificable.">
 
 <p align="center">
 <a href="https://github.com/skrpions">
@@ -77,9 +77,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-formacion-dark.svg">
-  <img src="assets/title-formacion-light.svg" width="100%" alt="06 Formación — Formación y comunidad.">
+  <img src="assets/title-formacion-light.svg" width="100%" alt="06 Formación — Formación y credenciales.">
 </picture>
-<a href="https://skrpions.github.io/nestor-dev"><img src="assets/formacion.svg" width="100%" alt="Formación y credenciales: Ingeniería de Sistemas Informáticos con honores, especialización y tecnología del SENA, diplomado en software para banca Bantotal, Angular 14 Pro, cursos SENA de HTML y calidad de software; español nativo e inglés A2."></a>
+<a href="https://skrpions.github.io/nestor-dev"><img src="assets/formacion.svg" width="100%" alt="Formación y credenciales: Ingeniería de Sistemas Informáticos con honores, especialización y tecnología del SENA, diplomado en software para banca Bantotal, cursos de Angular (Angular Signals In Depth en Udemy, 2025, y Angular 14 Pro, 2023), cursos SENA de HTML y calidad de software; español nativo e inglés A2."></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/title-contacto-dark.svg">
