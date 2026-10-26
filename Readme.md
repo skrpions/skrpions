@@ -28,7 +28,7 @@
   <img src="assets/title-trabajo-light.svg" width="100%" alt="03 Trabajo seleccionado — Proyectos en los que he trabajado.">
 </picture>
 
-<img src="assets/project-banca.svg" width="100%" alt="Banca Digital en VASS Colombia (2023 a hoy): onboarding, cuentas de ahorro y banca en línea para varios bancos, con micro-frontends en Nx y Module Federation, Angular con Signals, NgRx, SSO, OTP y pruebas.">
+<img src="assets/project-banca.svg" width="100%" alt="Banca Digital en VASS Colombia (2023 a hoy, proyecto corporativo de código privado): onboarding, cuentas de ahorro y banca en línea para varios bancos, con micro-frontends en Nx y Module Federation, Angular con Signals, NgRx, SSO, OTP y pruebas.">
 
 <img src="assets/project-avigan.svg" width="100%" alt="Avigan Cloud: sistema de información web para el seguimiento constante del ganado, registro de eventos diarios individuales o grupales, usuarios, proveedores, clientes, parametrización de eventos y gráficas estadísticas de animales activos.">
 <p align="center">
