@@ -3,11 +3,11 @@
 </a>
 
 <p align="center">
-<a href="https://skrpions.github.io/nestor-dev"><img src="https://img.shields.io/badge/Sitio_web-skrpions.github.io-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=githubpages" alt="Sitio web personal"></a>
-<a href="https://www.linkedin.com/in/nestor-mart%C3%ADnez-751232209/"><img src="https://img.shields.io/badge/LinkedIn-Nestor_Mart%C3%ADnez-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2bPHBhdGggZmlsbD0iI2VhZjZmYiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaIi8%2bPC9zdmc%2b" alt="Perfil de LinkedIn"></a>
-<a href="https://www.youtube.com/@nestormartinez6196"><img src="https://img.shields.io/badge/YouTube-Canal-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=youtube" alt="Canal de YouTube"></a>
-<a href="https://api.whatsapp.com/send?phone=573105338818"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=whatsapp" alt="WhatsApp"></a>
-<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="https://img.shields.io/badge/Art%C3%ADculo-ACOFI_Papers-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=googlescholar" alt="Artículo científico"></a>
+<a href="https://skrpions.github.io/nestor-dev"><img src="https://img.shields.io/badge/Sitio_web-skrpions.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Sitio web personal"></a>
+<a href="https://www.linkedin.com/in/nestor-mart%C3%ADnez-751232209/"><img src="https://img.shields.io/badge/LinkedIn-Nestor_Mart%C3%ADnez-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2bPHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaIi8%2bPC9zdmc%2b" alt="Perfil de LinkedIn"></a>
+<a href="https://www.youtube.com/@nestormartinez6196"><img src="https://img.shields.io/badge/YouTube-Canal-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=youtube" alt="Canal de YouTube"></a>
+<a href="https://api.whatsapp.com/send?phone=573105338818"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=whatsapp" alt="WhatsApp"></a>
+<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="https://img.shields.io/badge/Art%C3%ADculo-ACOFI_Papers-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=googlescholar" alt="Artículo científico"></a>
 </p>
 
 <picture>
@@ -32,28 +32,28 @@
 
 <img src="assets/project-avigan.svg" width="100%" alt="Avigan Cloud: sistema de información web para el seguimiento constante del ganado, registro de eventos diarios individuales o grupales, usuarios, proveedores, clientes, parametrización de eventos y gráficas estadísticas de animales activos.">
 <p align="center">
-<a href="https://www.youtube.com/watch?v=DT6XU5T2DGA"><img src="https://img.shields.io/badge/Ver-Demo_de_Avigan_Cloud-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=youtube" alt="Demo de Avigan Cloud en YouTube"></a>
+<a href="https://www.youtube.com/watch?v=DT6XU5T2DGA"><img src="https://img.shields.io/badge/Ver-Demo_de_Avigan_Cloud-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=youtube" alt="Demo de Avigan Cloud en YouTube"></a>
 </p>
 
 <a href="https://github.com/skrpions/skills_inventory_web"><img src="assets/project-skills.svg" width="100%" alt="Skills Inventory: aplicación web para mantener un registro actualizado del personal y sus habilidades: hojas de vida, perfiles, competencias, seguimiento de formación y certificaciones, e informes personalizados."></a>
 <p align="center">
-<a href="https://github.com/skrpions/skills_inventory_web"><img src="https://img.shields.io/badge/Repositorio-Skills_Inventory-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=github" alt="Repositorio de Skills Inventory"></a>
+<a href="https://github.com/skrpions/skills_inventory_web"><img src="https://img.shields.io/badge/Repositorio-Skills_Inventory-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Repositorio de Skills Inventory"></a>
 </p>
 
 <a href="https://github.com/skrpions/sigma-web"><img src="assets/project-sigma.svg" width="100%" alt="SIGMA Web: landing que captura nombre, correo, departamento y ciudad de los visitantes y los almacena en una base de datos."></a>
 <p align="center">
-<a href="https://github.com/skrpions/sigma-web"><img src="https://img.shields.io/badge/Repositorio-SIGMA_Web-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=github" alt="Repositorio de SIGMA Web"></a>
+<a href="https://github.com/skrpions/sigma-web"><img src="https://img.shields.io/badge/Repositorio-SIGMA_Web-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=github" alt="Repositorio de SIGMA Web"></a>
 </p>
 
 <img src="assets/sitios-apps.svg" width="100%" alt="Sitios web en WordPress: Misak Universidad, Misak Colombia, Sercor y Estudio Bf. Apps móviles: Biclapp y Apptende.">
 <p align="center">
-<a href="https://www.misakuniversidad.org/"><img src="https://img.shields.io/badge/Web-Misak_Universidad-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=wordpress" alt="Misak Universidad"></a>
-<a href="https://www.misak-colombia.org/"><img src="https://img.shields.io/badge/Web-Misak_Colombia-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=wordpress" alt="Misak Colombia"></a>
-<a href="https://sercoresahi.com/"><img src="https://img.shields.io/badge/Web-Sercor-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=wordpress" alt="Sercor"></a>
-<a href="https://www.estudio-bf.com/"><img src="https://img.shields.io/badge/Web-Estudio_Bf-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=wordpress" alt="Estudio Bf"></a>
+<a href="https://www.misakuniversidad.org/"><img src="https://img.shields.io/badge/Web-Misak_Universidad-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=wordpress" alt="Misak Universidad"></a>
+<a href="https://www.misak-colombia.org/"><img src="https://img.shields.io/badge/Web-Misak_Colombia-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=wordpress" alt="Misak Colombia"></a>
+<a href="https://sercoresahi.com/"><img src="https://img.shields.io/badge/Web-Sercor-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=wordpress" alt="Sercor"></a>
+<a href="https://www.estudio-bf.com/"><img src="https://img.shields.io/badge/Web-Estudio_Bf-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=wordpress" alt="Estudio Bf"></a>
 <br>
-<a href="https://drive.google.com/file/d/1KJP7wum3SOGosmO90oLkeL9O3ZSkRhM9/view?usp=sharing"><img src="https://img.shields.io/badge/App-Biclapp-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=android" alt="App móvil Biclapp"></a>
-<a href="https://drive.google.com/file/d/11zH7WAginXvb-1A6RBJT-5rRZhwG6aFk/view?usp=sharing"><img src="https://img.shields.io/badge/App-Apptende-0a4a6b?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=android" alt="App móvil Apptende"></a>
+<a href="https://drive.google.com/file/d/1KJP7wum3SOGosmO90oLkeL9O3ZSkRhM9/view?usp=sharing"><img src="https://img.shields.io/badge/App-Biclapp-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=android" alt="App móvil Biclapp"></a>
+<a href="https://drive.google.com/file/d/11zH7WAginXvb-1A6RBJT-5rRZhwG6aFk/view?usp=sharing"><img src="https://img.shields.io/badge/App-Apptende-451126?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=android" alt="App móvil Apptende"></a>
 </p>
 
 <picture>
@@ -70,8 +70,8 @@
 
 <p align="center">
 <a href="https://github.com/skrpions">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skrpions&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=081a24&title_color=a8dcf2&text_color=8db3c5&icon_color=0772a3&custom_title=GitHub%20en%20resumen" alt="Estadísticas de GitHub de skrpions">
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skrpions&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=081a24&title_color=a8dcf2&text_color=8db3c5&custom_title=Lenguajes%20principales" alt="Lenguajes más usados por skrpions">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skrpions&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20en%20resumen" alt="Estadísticas de GitHub de skrpions">
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skrpions&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&custom_title=Lenguajes%20principales" alt="Lenguajes más usados por skrpions">
 </a>
 </p>
 
@@ -87,11 +87,11 @@
 </picture>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nestor-mart%C3%ADnez-751232209/"><img src="https://img.shields.io/badge/LinkedIn-Nestor_Mart%C3%ADnez-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2bPHBhdGggZmlsbD0iI2VhZjZmYiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaIi8%2bPC9zdmc%2b" alt="Perfil de LinkedIn"></a>
-<a href="https://api.whatsapp.com/send?phone=573105338818"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=whatsapp" alt="WhatsApp"></a>
-<a href="https://www.youtube.com/@nestormartinez6196"><img src="https://img.shields.io/badge/YouTube-Canal-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=youtube" alt="Canal de YouTube"></a>
-<a href="https://skrpions.github.io/nestor-dev"><img src="https://img.shields.io/badge/Sitio_web-skrpions.github.io-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=githubpages" alt="Sitio web personal"></a>
-<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="https://img.shields.io/badge/Art%C3%ADculo-ACOFI_Papers-0772a3?style=for-the-badge&labelColor=06121a&logoColor=eaf6fb&logo=googlescholar" alt="Artículo científico"></a>
+<a href="https://www.linkedin.com/in/nestor-mart%C3%ADnez-751232209/"><img src="https://img.shields.io/badge/LinkedIn-Nestor_Mart%C3%ADnez-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2bPHBhdGggZmlsbD0iI0Y4RjBGMyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjhaTTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTNaTTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDVaIi8%2bPC9zdmc%2b" alt="Perfil de LinkedIn"></a>
+<a href="https://api.whatsapp.com/send?phone=573105338818"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=whatsapp" alt="WhatsApp"></a>
+<a href="https://www.youtube.com/@nestormartinez6196"><img src="https://img.shields.io/badge/YouTube-Canal-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=youtube" alt="Canal de YouTube"></a>
+<a href="https://skrpions.github.io/nestor-dev"><img src="https://img.shields.io/badge/Sitio_web-skrpions.github.io-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=githubpages" alt="Sitio web personal"></a>
+<a href="https://acofipapers.org/index.php/eiei/article/view/252"><img src="https://img.shields.io/badge/Art%C3%ADculo-ACOFI_Papers-701A3D?style=for-the-badge&labelColor=190B12&logoColor=F8F0F3&logo=googlescholar" alt="Artículo científico"></a>
 </p>
 
 <a href="https://skrpions.github.io/nestor-dev">
